@@ -1,5 +1,6 @@
 ## 安装说明参考博客
 https://www.cnblogs.com/breezey/p/9419612.html
+https://www.jianshu.com/p/e4c7f83a2a0b
 
 # flannel
 
